@@ -14,7 +14,7 @@ total_width=16;
 minimum_thickness = 1;
 
 
-keycap_style = "trackpoint-lp";
+keycap_style = "cup-chin";
 
 /* can be auto (computationally expensive), manual (a bit janky, needs to be implemented for each keycap), or none.
      has no effect on certain keycaps such as trackpoint variants */
@@ -25,7 +25,7 @@ chamfer_style = "auto";
 keycap_rotation = [0,0,0];
 
 
-stem_model = "trackpoint-lp-clamp";
+stem_model = "SKRH";
 
 
 // "cr10 or "prusa" have presets, any other string will use a default tolerance, usually 0

@@ -18,7 +18,7 @@ boss_inner_slop = 0.05;
 /* my switch measurments are a bit tighter than the spec sheet says, the slop factor will make up some of the difference,
  * but we want a tight fit to hold the switch in place so this may need to be tuned
  */
-switch_side = 7.4; // 'x' in the dimension table of the data sheet says 7.45 / 7.5 , I measured 7.4
+switch_side = 7.8; // 'x' in the dimension table of the data sheet says 7.45 / 7.5 , I measured 7.4
 switch_cropped_corner = 8.5; // 'c' in the table says 8.7, I measured 8.5
 switch_height = 1.85; // 'h' in the table
 switch_boss_dia = 1.05; // PC Board Mounting diagram suggests a 1.05 mm and a .75 mm hole, I measured 0.95
